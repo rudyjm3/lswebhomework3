@@ -11,11 +11,11 @@
 
 ```
 
-My name is:
+My name is: Rudolph Mims
 
-I like to:
+I like to: Design Websites and do graphic design
 
-I'm learning:
+I'm learning: Filling in the blankets on HTML, CSS that I don't know. Will be learning Java Script soon.
 
 ```
 
